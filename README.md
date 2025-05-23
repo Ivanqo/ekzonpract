@@ -39,8 +39,8 @@
 
 <h3>Основные компоненты системы</h3>
 
-<pre><code>construction_passport/
-├── api/
+<pre><code>djangoRestApiEkzon/
+├── ApiApp/
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
@@ -50,7 +50,7 @@
 │   ├── serializers.py     # Сериализаторы
 │   ├── urls.py           # Маршруты API
 │   └── views.py          # ViewSets
-├── config/
+├── djangoRestApiEkzon/
 │   ├── __init__.py
 │   ├── asgi.py
 │   ├── settings.py       # Настройки проекта
